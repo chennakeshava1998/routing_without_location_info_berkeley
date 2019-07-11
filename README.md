@@ -1,6 +1,6 @@
 # routing_without_location_info_berkeley
-**Input:** 2-hop neighbourhood information for every node, Geographic Coordinates of Perimeter Nodes
-**Output:** Virtual Coordinates of all the nodes, which closely resemble the geographic map.
+**Input:** 2-hop neighbourhood information for every node, Geographic Coordinates of Perimeter Nodes<br>
+**Output:** Virtual Coordinates of all the nodes, which closely resemble the geographic map.<br>
 
 **How to Execute:**
 1. Run `python3 relaxation/get_perimeter_location.py` and `relaxation/get_perimeter_location.py` initially to determine the location and the identity of the perimeter nodes.
